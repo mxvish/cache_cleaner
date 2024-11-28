@@ -14,3 +14,5 @@ start cleaner.cmd
 ```ps1
 ii cleaner.cmd
 ```
+
+When command prompt displays `Are you sure (Y/N)?`, enter `Y` and press enter.
